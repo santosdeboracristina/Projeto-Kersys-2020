@@ -10,12 +10,12 @@ resultados de produtividade serão realizadas com o auxílio da Inteligência Ar
 
 ## O TIME:
 
-[Débora Cristina Santos](https://github.com/santosdeboracristina)
-[Caroline Faria Nunes](https://github.com/carolinenunes)
-Aline Oliveira dos Santos
-Larissa Faria Nunes
+[Débora Cristina Santos](https://github.com/santosdeboracristina)\
+[Caroline Faria Nunes](https://github.com/carolinenunes)\
+[Aline Oliveira dos Santos](https://github.com/linemarquart)\
+Larissa Faria Nunes\
 
-Sprint 0 - **04/10/20**
-Sprint 1 - **18/10/20**
-Sprint 2 - **08/11/20**
-Sprint 4 - **29/11/20**
+Sprint 0 - **04/10/20**\
+Sprint 1 - **18/10/20**\
+Sprint 2 - **08/11/20**\
+Sprint 4 - **29/11/20**\

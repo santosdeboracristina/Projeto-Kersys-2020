@@ -20,3 +20,6 @@ resultados de produtividade serão realizadas com o auxílio da Inteligência Ar
 - Sprint 1 - **18/10/20**
 - Sprint 2 - **08/11/20**
 - Sprint 4 - **29/11/20**
+
+## TOOLS
+![postgreslogo](https://github.com/santosdeboracristina/Projeto-Kersys-2020/blob/main/img/logo_postgresql.png)

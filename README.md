@@ -22,3 +22,23 @@ resultados de produtividade serão realizadas com o auxílio da Inteligência Ar
 - Sprint 4 - **29/11/20**
 
 ## TOOLS
+- <p>
+  <a href="https://waikato.github.io/weka-wiki/downloading_weka/">
+  <img alt="Weka" src="https://user-images.githubusercontent.com/45819790/95100214-42188200-0707-11eb-92a1-d9b49fe5764b.png" height="30px" style="max-width:100%;"> </a> Weka                                                                                                                                            
+</p>
+
+- <p>
+  <a href="https://powerbi.microsoft.com/pt-br/downloads/">
+  <img alt="Power Bi" src="https://user-images.githubusercontent.com/45819790/95100501-8b68d180-0707-11eb-9394-a89c17f674fd.png" height="30px" style="max-width:100%;"> </a> Power Bi                                                                                                                                           
+</p>
+
+- <p>
+  <a href="https://www.python.org/downloads/">
+  <img alt="Python" src="https://user-images.githubusercontent.com/45819790/95100784-d387f400-0707-11eb-964c-653b19ef474b.png" height="30px" style="max-width:100%;"> </a> Python                                                                                                                                           
+</p>
+
+- <p>
+  <a href="https://www.microsoft.com/pt-br/microsoft-365/excel">
+  <img alt="Python" src="https://user-images.githubusercontent.com/45819790/95100881-f31f1c80-0707-11eb-9325-155ddef19b37.png" height="30px" style="max-width:100%;"> </a> Excel                                                                                                                                          
+</p>
+                                                                                                                                                   

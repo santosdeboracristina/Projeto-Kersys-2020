@@ -19,7 +19,7 @@ resultados de produtividade serão realizadas com o auxílio da Inteligência Ar
 - Sprint 0 - **04/10/20**
 - Sprint 1 - **18/10/20**
 - Sprint 2 - **08/11/20**
-- Sprint 4 - **29/11/20**
+- Sprint 3 - **29/11/20**
 
 ## TOOLS
 - <p>
